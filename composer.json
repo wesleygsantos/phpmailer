@@ -1,0 +1,17 @@
+{
+    "name": "wesley/estudo2",
+    "autoload": {
+        "psr-4": {
+            "Wesley\\Estudo2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesleygsantos",
+            "email": "wesleyg_santos@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
